@@ -1,0 +1,3 @@
+# new dir
+
+sometext..git
