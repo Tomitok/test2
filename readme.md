@@ -14,6 +14,8 @@ some text..
 
 hiiiiiiii;
 
+checking git logq
+
 some another text
 
 extra test
